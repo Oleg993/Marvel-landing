@@ -58,3 +58,8 @@ nav a:active {
 ::-webkit-scrollbar {
   display: none;
 }
+
+.active {
+  font-weight: bold;
+  background-color: rgba(28, 63, 94, 0.5);
+}
